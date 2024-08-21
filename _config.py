@@ -1,23 +1,23 @@
 # Config
 class Config(object):
     # Your bot name - Required (str)
-    BOT_NAME = "public"
+    BOT_NAME = "Candra"
     # A name for users - Required (str)
-    BOT_NAME_FOR_USERS = "Video Downloader bot by upekshaip"
+    BOT_NAME_FOR_USERS = "candra"
     # Add all admin id's as a list - Required (lst[int])
-    ADMIN = [0000000000]
+    ADMIN = [7465006072]
     # Add your telegram API ID - Required (int)
-    API_ID = 0000000
+    API_ID = 26112284
     # Add your Telegram API HASH - Required (str)
-    API_HASH = ""
+    API_HASH = "938603ab9b55d4a3f1c448f12702f568"
     # Add your telegram bot token (str)
-    BOT_TOKEN = ""
+    BOT_TOKEN = "7316844453:AAEX4HzHijlHK3naQ7TaH2bXTD23Cy4gmtM"
     # Add telegram Log channel Id - Required (int)
-    LOGS_ID = -0000000000000
+    LOGS_ID = -1002232210356
     # Add main channel to subscribe - Required (int)
-    SUBSCRIBE_CHANNEL = -0000000000000
+    SUBSCRIBE_CHANNEL = -1002219126655
     # Add subscription channel - Required (str)
-    SUBSCRIBE_CHANNEL_URL = "https://t.me/upekshaip"
+    SUBSCRIBE_CHANNEL_URL = "https://t.me/jgnigxrhllhbcy"
 
     # Cookie file URL
     # EX: "https://path/to/your/cookie-file.txt"
